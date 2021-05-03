@@ -1,0 +1,19 @@
+body{background-color: #EAF6F6;
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  text-align: center;
+  margin-top: 360px;
+}
+h1, h4, h6 {
+        text-align: center;
+    }
+.btn,.showBtn{
+  color: #3498db;
+}
+.exportPDF{
+  color: #1c3342;
+}
